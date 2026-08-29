@@ -1,0 +1,1 @@
+﻿# PRODUCT_MODEL\n\n
